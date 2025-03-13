@@ -1,0 +1,36 @@
+body {
+
+font-family: Arial, Helvetica, sans-serif;
+background-color: aqua;
+margin: lem auto;
+padding: lem;
+}
+
+h1 {
+
+text-align: center;
+color: blue;
+
+}
+
+label {
+
+display: block;
+margin: 10px 0 5px;
+font-weight: bold;
+
+}
+
+input, textarea, select {
+
+width: 100;
+padding: 10px ;
+margin-bottom: 15px;
+border: 1px solid; 
+
+}
+
+input[type="submit"]:hover {
+
+    background-color: brown;
+}
